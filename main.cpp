@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    cout << " HW#3 Compute Baseball statistics. Anton Teren "<< endl << endl;
+    cout << " HW#3 Compute Baseball statistics. "<< endl << endl;
 
     double prctg, bestPrctg=0;
     int id, wins, lose, total, remGames, above, below, bestId, bestAbove=0,  numTeams=0;
